@@ -1,0 +1,2 @@
+#!/bin/bash
+wc ls --files="root" /etc/passwd
