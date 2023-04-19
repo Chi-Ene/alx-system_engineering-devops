@@ -1,4 +1,2 @@
 #!/bin/bash
-cat << _EOF_
-"(Ôo)'
-_EOF_
+cat << "(Ôo)'
