@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "bag cat shoe cat purse bag" | sort | uniq
+sort | uniq -u
