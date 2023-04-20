@@ -1,2 +1,2 @@
 #!/bin/bash
-wc ls --files"bin" /etc/passwd 
+grep ls "bin" /etc/passwd 

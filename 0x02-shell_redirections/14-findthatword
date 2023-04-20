@@ -1,2 +1,2 @@
 #!/bin/bash
-wc ls --files="root" /etc/passwd
+grep ls "root" /etc/passwd
